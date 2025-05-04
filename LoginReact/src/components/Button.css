@@ -1,0 +1,15 @@
+#botao-enviar{
+    background-color: #df3e35;
+    color: white;
+    padding: 15px;
+    width: 50%;
+    margin-top: 15px;
+    border: none;
+    text-transform: uppercase;
+    font-weight: bold;
+    border-radius: 5px;
+}
+#botao-enviar:hover{
+    cursor: pointer;
+    background-color: #952823
+}

@@ -1,0 +1,33 @@
+form{
+    display: flex;
+    flex-direction: column;
+}
+#container-formulario{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #1e1e32;
+    padding: 25px;
+    border-radius: 5px;
+}
+label{
+    color: white;
+    margin-bottom: 5px;
+}
+h1{
+    color: white;
+    text-transform: uppercase;
+}
+#container-botao{
+    display: flex;
+    justify-content: center;
+}
+#container-geral{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
